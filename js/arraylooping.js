@@ -62,3 +62,4 @@ const total_scores = scores.reduce((finaltotal,currentscore) => {
       return finaltotal + currentscore
 }, 0)
 console.log(total_scores)
+
